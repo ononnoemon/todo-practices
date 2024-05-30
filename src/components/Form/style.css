@@ -1,0 +1,36 @@
+/* *{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 60%;
+    height: 450px;
+    margin: 100px auto;
+    background: aqua;
+    position: relative;
+}
+
+.component{
+
+}
+.field{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+}
+
+input{
+    font-size: 26px;
+    border: 0;
+    margin: 10px 0;
+}
+label{
+    font-size: 30px;
+    
+}
+button{
+    padding:15px 20px;
+    border: 0;
+    margin: 15px 0;
+} */
